@@ -158,7 +158,7 @@ let s20 = {
 let s21 = {
 	id:"21",
 	img:"images/scene17.jpg",
-	text:"Sadao thought,'Maybe it's the secon night'.",
+	text:"Sadao thought,'Maybe it's the second night'.",
 	dec:["OK"]
 }
 

@@ -8,39 +8,51 @@ html{
 .header{
 	font-family: 'Abril Fatface';
 }
+.content{
+  max-width: 500px;
+  margin: auto;
+  background-color: lightblue;
+}
 
+body{
+  background-image: url('bg-cover-blossom.jpg');
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+}
 
 .btn-group{
-	padding:10px;
+	padding:15px;
 }
 
 
 .button {
-  padding: 5px 10px;
+  padding: 10px 10px;
   font-size: 24px;
   text-align: center;
   cursor: pointer;
   outline: none;
   color: #fff;
-  background-color: #4CAF50;
+  background-color: #0f52ba;
   border: none;
   border-radius: 15px;
-  box-shadow: 0 9px #999;
 }
 
-.button:hover {background-color: #3e8e41}
+.button:hover {background-color: #0080ff}
 
 .button:active {
-  background-color: #3e8e41;
-  box-shadow: 0 5px #666;
-/*  transform: translateY(4px);*/
+  background-color: #95c8d8;
 }
 
-
+#sceneimg {
+  border: thick solid black;
+}
 
 #scenetext{
-	font-size: 100%;
-	font-weight: bold;
+	font-size: 120%;
+  font-weight: bold;
+  background-color: #ccc;
+  border: thin solid black;
 }
 
 

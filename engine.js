@@ -2,11 +2,13 @@
  * The Game Engine v2.0
  */
 
-
-// TODO: Crop pictures to perfect size..some are bit offset(courtesy, my sister)
+// DONE: 
 // TODO: Add Description Text to narrate the story 
 // TODO: Make Description Text prominent (use CSS)
 // TODO: Change Button styling. Current one looks awkward
+// END DONE
+
+// TODO: Crop pictures to perfect size..some are bit offset(courtesy, my sister)
 // TODO: Add Background color (different for adapted story and different for main branch)
 // TODO: Poistion Button properly in a div. This one gets off-set weirdly.
 

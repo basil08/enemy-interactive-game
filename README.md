@@ -22,7 +22,7 @@ Needless to say, I was the only one interested in the project.
 2. Basil Labib (me) (Group Coordinator)
 3. Debdippta D Majumder 
 4. Soham Bandopadhyay
-5. Spandan Das 
+5. Spandan Das (alternate branches are based on storylines he provided)
 
 ## Contributing    
 
